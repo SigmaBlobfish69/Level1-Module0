@@ -11,7 +11,8 @@ import tkinter as tk
 #         c. Return the list_of_guests
 def add_guest(list_of_guests):
 
-    return list()
+
+
 
 # TODO 2) Complete the function by:
 #         a. Asking for the name of the guest to remove
