@@ -14,6 +14,7 @@ def add_guest(list_of_guests):
 
 
 
+
 # TODO 2) Complete the function by:
 #         a. Asking for the name of the guest to remove
 #         b. Remove the guest from list_of_guests. Do not change the list if
